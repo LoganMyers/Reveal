@@ -1,0 +1,16 @@
+#reveal		{
+	display: visible;
+	width: 100%;
+	height: 705px;
+	margin: 0;
+	background-color: white;
+}
+body		{
+	height: 680px;
+	width: 100%;
+	margin: 0;
+	background-image: url('puppy.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
